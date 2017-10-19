@@ -1,0 +1,2 @@
+# swaggerhub-analyser
+Project will gather info about swaggerhub usage and calculate degree of users interest. Reports will be available to smartbear staff in different format such as graphs, stats, bars. Some data can be displayed on client side as number or text (advice, summary) depend on different factors. Analyser can indicate potential users that requires higher focus from swaggerhub experts.
